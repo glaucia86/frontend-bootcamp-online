@@ -1,28 +1,28 @@
 # Front-End Bootcamp Online
 
-[![Front-End-Bootcamp-online.png](https://i.postimg.cc/prfnrgtB/Front-End-Bootcamp-online.png)](https://postimg.cc/y3NNrpxJ)
+[![Tutorial-MEAN.png](https://i.postimg.cc/9MgHHfS3/Tutorial-MEAN.png)](https://postimg.cc/WFZHMsTS)
 
 Repositório responsável pelo Front-End Bootcamp Online.
 
-## Objetivo do Bootcamp
+## Objetivo do Bootcamp 🎯
 
 O Front-End Bootcamp, tem como objetivo reunir o conhecimento dos(as) principais desenvolvedores(as) com o objetivo de ensinar de uma maneira prática as principais stacks e frameworks do mercado, visando como objetivo principal, ajudar a futura pessoa desenvolvedora a conseguir criar um portfólio para conseguir um trabalho como Front-End Developer!
 
 O Front-End Bootcamp, é um projeto gratuito e feito com o seguinte slogan:
 
 ```
-❤️ 'Desenvolvido pela Comunidade para Comunidade!' ❤️
+❤️ 'Desenvolvido pela Comunidade para a Comunidade!' ❤️
 ```
 
-Pois a intenção é sempre compartilhar conhecimento e claro ajudar a todos(as) na Comunidade Técnica a conseguirem adquirir o conhecimento necessário para conseguir um trabalho!
+Pois a intenção é sempre compartilhar conhecimento e claro ajudar a todos(as)na Comunidade Técnica a conseguirem adquirir o conhecimento necessário para conseguir um trabalho!
 
-O projeto é aberto a todas as pessoas e feito para ser realizado de maneira pessoal ou por meetups ou workshops. 
+O projeto é aberto para todas as pessoas e feito para ser realizado de maneira pessoal ou por meetups ou workshops. 
 
-Caso se sinta desejoso em fazer parte desse incrível projeto e deseja colaborar com os conteúdos, bastam entrar em contato comigo por email **[aqui](gllemos@microsoft.com)**
+Caso se sinta desejoso(a) em fazer parte desse incrível projeto e deseja colaborar com os conteúdos conosco, bastam entrar em contato comigo pelo ao lado: **[aqui](gllemos@microsoft.com)**
 
 ## Pré-requisitos 📌
 
-Todas as pessoas são muito bem-vindos(as) a participarem do Front-End Bootcamp Online! Pois, como dito acima, o objetivo é justamente ajudar a todos(as) a aprenderem as stacks necessárias para criar um portfólio para dar os seus primeiros passos como Front-End Developer!
+Todas as pessoas são muito bem-vindos(as) a participarem do Front-End Bootcamp Online! Pois, como dito acima,o objetivo é justamente ajudar a todos(as) a aprenderem as stacks necessárias para criar um portfólio para dar os seus primeiros passos como Front-End Developer!
 
 ## O que eu vou aprender?! 📕
 
