@@ -20,7 +20,7 @@ O projeto é aberto para todas as pessoas, podendo ser realizado de maneira pess
 
 ## Quero ajudar a montar o Bootcamp! Como faço?! 🚩
 
-Caso se sinta desejoso(a) em fazer parte desse incrível projeto e deseja colaborar com os conteúdos conosco, bastam entrar em contato comigo pelo e-mail ao lado: **[AQUI](gllemos@microsoft.com)**
+Caso se sinta desejoso(a) em fazer parte desse incrível projeto e deseja colaborar com os conteúdos conosco, bastam entrar em contato comigo pelo e-mail ao lado: **[AQUI](mailto:gllemos@microsoft.com)**
 
 ## Pessoas da Comunidade Técnica Brasileira que já estão Contribuindo com o Projeto! 😍
 
