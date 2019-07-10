@@ -9,6 +9,7 @@ Nessa fase, você terá que escolher qual framework gostaria de aprender:
 - Vue 
 - React 
 - Angular
+- TypeScript
 
 Depois que escolher o framework que deseja aprender, você precisará aprender antes:
 
