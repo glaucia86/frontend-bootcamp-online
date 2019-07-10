@@ -1,0 +1,1 @@
+# Fase 3.2 - Azure Storage Account

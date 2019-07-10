@@ -6,10 +6,10 @@
 
 Nessa fase, você aprenderá os conceitos básicos sobre: 
 
-- Azure DevOps
 - Conceitos de Nuvem & Azure
 - Azure Storage Account
 - Azure Web App Service
+- Azure DevOps
 
 No decorrer do Bootcamp, incluiremos leituras recomendadas, para que possam auxiliar nos seus estudos.
 Para finalizar o seu Bootcamp, você precisará seguir com as seguintes regras:
