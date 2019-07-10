@@ -27,7 +27,6 @@ Caso se sinta desejoso(a) em fazer parte desse incrível projeto e deseja colabo
 - **[Glaucia Lemos](https://twitter.com/glaucia_lemos86)**
 - **[William Oliveira](https://twitter.com/w_oliveiras)**
 
-
 ## Pré-requisitos 📌
 
 Todas as pessoas são muito bem-vindos(as) a participarem do Front-End Bootcamp Online! Pois, como dito acima,o objetivo é justamente ajudar a todos(as) a aprenderem as stacks necessárias para criar um portfólio para dar os seus primeiros passos como Front-End Developer!
@@ -52,7 +51,7 @@ Ensinaremos a todos(as) aqui as seguintes stacks:
 
 A agenda consiste de 3 fases. São elas:
 
-### Fase 1️⃣ - Inicial
+### Fase 1️⃣ - Iniciante
 
 Na fase 1 do Front-End Bootcamp Online todos(as) aprenderão os principais conceitos sobre:
 
@@ -101,7 +100,7 @@ Para que o projeto seja aprovado, a pessoa desenvolvedora terá que realizar um 
 - **[MongoDb Community Server](https://www.mongodb.com/download-center/community)**
 - **[MongoDb Compass GUI](https://www.mongodb.com/download-center/compass)**
 - **[Postman](https://www.getpostman.com/)**
-* **[Azure App Service](https://aka.ms/AA5jszp)**
+- **[Azure App Service](https://aka.ms/AA5jszp)**
 - **[Azure Storage Account](https://aka.ms/AA5jszq)**
 - **[Azure DevOps](https://aka.ms/AA5k880)**
 - **[Conta - Azure](https://aka.ms/AA5k87y)**
@@ -113,7 +112,6 @@ Caso você seja um(a) estudante de alguma Instituição de Ensino de Faculdade o
 ## Tenho Dúvidas... O que Faço?! ❓
 
 Caso tenham dúvidas aos códigos dos projetos relacionados aos workshops, sintam-se a vontade em abrir uma **[ISSUE AQUI](https://github.com/glaucia86/frontend-bootcamp-online/issues)**. Assim que possível, estarei respondendo as todas as dúvidas que tiverem!
-
 
 **(documentação em desenvolvimento)**
 
