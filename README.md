@@ -1,4 +1,4 @@
-# Front-End Bootcamp Online
+# Front-End Bootcamp Online (Em Desenvolvimento - Muito em breve!)
 
 [![Tutorial-MEAN.png](https://i.postimg.cc/9MgHHfS3/Tutorial-MEAN.png)](https://postimg.cc/WFZHMsTS)
 
@@ -27,6 +27,7 @@ Caso se sinta desejoso(a) em fazer parte desse incrível projeto e deseja colabo
 - **[Glaucia Lemos](https://twitter.com/glaucia_lemos86)**
 - **[William Oliveira](https://twitter.com/w_oliveiras)**
 - **[Marco Bruno](https://twitter.com/marcobrunobr)**
+- **[André Baltieri](https://twitter.com/balta_io)**
 
 ## Pré-requisitos 📌
 
