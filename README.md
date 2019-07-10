@@ -18,7 +18,15 @@ Pois a intenção é sempre compartilhar conhecimento e claro ajudar a todos(as)
 
 O projeto é aberto para todas as pessoas e feito para ser realizado de maneira pessoal ou por meetups ou workshops. 
 
+## Quero ajudar a montar o Bootcamp! Como faço?! 🚩
+
 Caso se sinta desejoso(a) em fazer parte desse incrível projeto e deseja colaborar com os conteúdos conosco, bastam entrar em contato comigo pelo ao lado: **[aqui](gllemos@microsoft.com)**
+
+## Pessoas que já estão contribuindo! 😍
+
+- **[Glaucia Lemos](https://twitter.com/glaucia_lemos86)**
+- **[William Oliveira](https://twitter.com/w_oliveiras)**
+
 
 ## Pré-requisitos 📌
 
@@ -44,7 +52,7 @@ Ensinaremos a todos(as) aqui as seguintes stacks:
 
 A agenda consiste de 3 fases. São elas:
 
-### Fase 1 - Inicial
+### Fase 1️⃣ - Inicial
 
 Na fase 1 do Front-End Bootcamp Online todos(as) aprenderão os principais conceitos sobre:
 
@@ -55,7 +63,7 @@ Na fase 1 do Front-End Bootcamp Online todos(as) aprenderão os principais conce
 
 No final da fase 1, as pessoas terão que criar um projeto com as stacks aprendidas.
 
-### Fase 2 - Intermediário
+### Fase 2️⃣ - Intermediário
 
 Na fase 2 do Front-End Bootcamp Online a pessoa poderá optar em aprender **1 framework a sua escolha**:
 
@@ -67,7 +75,7 @@ Na fase 2 do Front-End Bootcamp Online a pessoa poderá optar em aprender **1 fr
 
 No final da fase 2, as pessoas terão que criar um projeto com as stacks aprendidas. Ou: MEVN, MEAN ou MERN.
 
-### Fase 3 - Avançado
+### Fase 3️⃣ - Avançado
 
 Na fase 3 do Front-End Bootcamp Online, todos(as) aprenderão como realizar o deploy e hospedar as suas aplicações na nuvem visando criar um portfólio no GitHub e aprenderão as seguintes stacks:
 
@@ -76,17 +84,35 @@ Na fase 3 do Front-End Bootcamp Online, todos(as) aprenderão como realizar o de
 - Azure Storage Account
 - Azure Web App Service
 
-### Apresentação do Projeto Final/Capstone Project
+### Apresentação do Projeto Final/Capstone Project 💻
 
 Nessa fase, as pessoas terão que pegar o projeto criado na fase dois e fazer os aprimoramentos necessários e realizar o deploy da aplicação na Nuvem.
 
 Para que o projeto seja aprovado, a pessoa desenvolvedora terá que realizar um vídeo de 5 minutos explicando o que desenvolveu e postar no Youtube e abrir uma **[ISSUE AQUI]()** com as seguintes informações
 
-## Recursos Utilizados 🚀
+## Recursos Utilizados no Front-End Bootcamp 🚀
+
+- **[Visual Studio Code](https://aka.ms/AA5k0dt)**
+- **[Node.js](https://nodejs.org/en/)**
+- **[Vue.js](https://vuejs.org/)**
+- **[React.js](https://pt-br.reactjs.org/)**
+- **[Angular](https://angular.io/)**
+- **[TypeScript](https://www.typescriptlang.org/)**
+- **[MongoDb Community Server](https://www.mongodb.com/download-center/community)**
+- **[MongoDb Compass GUI](https://www.mongodb.com/download-center/compass)**
+- **[Postman](https://www.getpostman.com/)**
+* **[Azure App Service](https://aka.ms/AA5jszp)**
+- **[Azure Storage Account](https://aka.ms/AA5jszq)**
+- **[Azure DevOps](https://aka.ms/AA5k880)**
+- **[Conta - Azure](https://aka.ms/AA5k87y)**
+
+### Conta - Azure for Students ⭐️
+
+Caso você seja um(a) estudante de alguma Instituição de Ensino de Faculdade ou Universidade, poderá criar sua conta no **[Azure for Students](https://aka.ms/AA5k886)**. Essa conta te dará o benefício em possuir crédito de USD 100,00 para usar os serviços de maneira gratuita, sem necessidade de possuir um cartão de crédito. Para ativar essa conta, bastam acessar o link ao lado: **[AQUI](https://aka.ms/AA5k886)**
 
 ## Tenho Dúvidas... O que Faço?! ❓
 
-Caso tenham dúvidas aos códigos dos projetos relacionados aos workshops, sintam-se a vontade em abrir uma **[ISSUE AQUI](https://github.com/glaucia86/vuejs-workshop/issues)**. Assim que possível, estarei respondendo as todas as dúvidas que tiverem!
+Caso tenham dúvidas aos códigos dos projetos relacionados aos workshops, sintam-se a vontade em abrir uma **[ISSUE AQUI](https://github.com/glaucia86/frontend-bootcamp-online/issues)**. Assim que possível, estarei respondendo as todas as dúvidas que tiverem!
 
 
 **(documentação em desenvolvimento)**
