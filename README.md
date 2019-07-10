@@ -79,10 +79,10 @@ No final da fase 2, as pessoas terão que criar um projeto com as stacks aprendi
 
 Na fase 3 do Front-End Bootcamp Online, todos(as) aprenderão como realizar o deploy e hospedar as suas aplicações na nuvem visando criar um portfólio no GitHub e aprenderão as seguintes stacks:
 
-- Azure DevOps
 - Conceitos de Nuvem & Azure
 - Azure Storage Account
 - Azure Web App Service
+- Azure DevOps
 
 ### Apresentação do Projeto Final/Capstone Project 💻
 
