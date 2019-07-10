@@ -116,7 +116,7 @@ Caso você seja um(a) estudante de alguma Instituição de Ensino de Faculdade o
 
 ## Tenho Dúvidas... O que Faço?! ❓
 
-Caso tenham dúvidas aos códigos dos projetos relacionados aos workshops, sintam-se a vontade em abrir uma **[ISSUE AQUI](https://github.com/glaucia86/frontend-bootcamp-online/issues)**. Assim que possível, estarei respondendo as todas as dúvidas que tiverem!
+Caso tenham dúvidas aos códigos dos projetos relacionados as fases citadas acima, sintam-se a vontade em abrir uma **[ISSUE AQUI](https://github.com/glaucia86/frontend-bootcamp-online/issues)**. Assim que possível, estaremos respondendo todas as dúvidas que tiverem!
 
 **(documentação em desenvolvimento)**
 
