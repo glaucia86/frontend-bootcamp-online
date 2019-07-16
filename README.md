@@ -90,7 +90,7 @@ Na fase 3 do Front-End Bootcamp Online, todos(as) aprenderão como realizar o de
 
 Nessa fase, as pessoas terão que pegar o projeto criado na **Fase 2** e fazer os aprimoramentos necessários. Depois, precisam realizar o deploy/hospedagem da aplicação na Nuvem.
 
-Para que o projeto seja aprovado, a pessoa desenvolvedora terá que realizar um vídeo de 5 minutos explicando o que desenvolveu e postar no Youtube e abrir uma **[ISSUE AQUI](https://github.com/glaucia86/frontend-bootcamp-online/issues)** com as seguintes informações:
+Ao final do desenvolvimento do projeto, a pessoa desenvolvedora terá que realizar um vídeo de 5 minutos explicando o que desenvolveu e postar no Youtube e abrir uma **[ISSUE AQUI](https://github.com/glaucia86/frontend-bootcamp-online/issues)** com as seguintes informações:
 
 - Nome 
 - Link do vídeo
