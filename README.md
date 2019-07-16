@@ -2,7 +2,7 @@
 
 [![Tutorial-MEAN.png](https://i.postimg.cc/9MgHHfS3/Tutorial-MEAN.png)](https://postimg.cc/WFZHMsTS)
 
-Repositório responsável pelo Front-End Bootcamp Online.
+> Repositório responsável pelo Front-End Bootcamp Online.
 
 ## Objetivo do Bootcamp 🎯
 
