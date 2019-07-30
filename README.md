@@ -27,7 +27,6 @@ Caso se sinta desejoso(a) em fazer parte desse incrível projeto e deseja colabo
 - **[Glaucia Lemos](https://twitter.com/glaucia_lemos86)**
 - **[William Oliveira](https://twitter.com/w_oliveiras)**
 - **[Marco Bruno](https://twitter.com/marcobrunobr)**
-- **[André Baltieri](https://twitter.com/balta_io)**
 - **[Tulio Faria](https://twitter.com/tuliofaria)**
 
 ## Pré-requisitos 📌
