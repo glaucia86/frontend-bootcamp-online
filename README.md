@@ -16,11 +16,11 @@ O Front-End Bootcamp Online é um projeto gratuito e seguimos com o seguinte slo
 
 Pois a nossa intenção e principal objetivo é: compartilhar conhecimento! E claro, ajudar a todos(as) na Comunidade Técnica Brasileira a conseguirem adquirir o conhecimento necessário para conseguir um trabalho!
 
-O projeto é aberto para todas as pessoas, podendo ser realizado de maneira pessoal ou por meetups ou workshops locais. 
+O projeto é aberto para todas as pessoas, podendo ser realizado de maneira pessoal, por meetups ou workshops locais. 
 
 ## Quero ajudar a montar o Bootcamp! Como faço?! 🚩
 
-Caso se sinta desejoso(a) em fazer parte desse incrível projeto e deseja colaborar com os conteúdos conosco, bastam entrar em contato comigo pelo e-mail ao lado: **[AQUI](mailto:glaucia_lemos86@hotmail.com)**
+Caso se sinta desejoso(a) em fazer parte desse incrível projeto e deseja colaborar com os conteúdos conosco, basta entrar em contato comigo pelo e-mail ao lado: **[AQUI](mailto:glaucia_lemos86@hotmail.com)**
 
 ## Pessoas da Comunidade Técnica Brasileira que já estão Contribuindo com o Projeto! 😍
 
@@ -120,5 +120,4 @@ Caso você seja um(a) estudante de alguma Instituição de Ensino de Faculdade o
 Caso tenham dúvidas aos códigos dos projetos relacionados as fases citadas acima, sintam-se a vontade em abrir uma **[ISSUE AQUI](https://github.com/glaucia86/frontend-bootcamp-online/issues)**. Assim que possível, estaremos respondendo todas as dúvidas que tiverem!
 
 **(documentação em desenvolvimento)**
-
 
