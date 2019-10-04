@@ -16,5 +16,6 @@ Lembrando que, para seguir para a próxima fase, você deverá abrir uma **[ISSU
 
 ## Agenda 📘
 
-| Parte  |  Tópico |   
+| Conteúdo  |  Tempo de dedicação |   
 |---|--- |
+| [Git & GitHub](git-github)| 1 hora|
