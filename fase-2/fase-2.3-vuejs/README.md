@@ -9,7 +9,7 @@ De acordo com sua documentação, Vue é um framework progressivo para criação
 Neste curso, você aprenderá sobre:
 
 1 - [Criando minha primeira aplicação em Vue](instalacao.md)
-2 - Estado da minha aplicação
+2 - [Estado da minha aplicação](setup.md)
 3 - O que são diretivas?
 4 - Meus primeiros métodos
 5 - Componentização
