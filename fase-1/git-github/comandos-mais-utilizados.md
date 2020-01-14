@@ -4,7 +4,7 @@
 
 ## git add
 
-Após criar um arquivo, adicione o arquivo no rastreamento do Git.No Terminal, use o comando `git add` seguido do nome do arquivo ou somente `.` para adicionar todos os arquivos ainda não rastreados.
+Após criar um arquivo, adicione o arquivo no rastreamento do Git. No Terminal, use o comando `git add` seguido do nome do arquivo ou somente `.` para adicionar todos os arquivos ainda não rastreados.
 
 ```css
 $ git add index.html
@@ -27,6 +27,17 @@ Dica: tente tornar suas mensagens curtas, mas significativas.
 ```css
 $ git commit -m "Página inicial e pastas de CSS e JS"
 ```
+
+## git pull
+
+Depois de confirmar as alterações, sincronize seu repositório local de sua máquina com o repositório remoto. No Terminal, use o comando `git pull` seguido do nome da branch que você buscar as alterações.
+
+#### Exemplo
+
+```css
+$ git pull origin master
+```
+
 
 ## git push
 
