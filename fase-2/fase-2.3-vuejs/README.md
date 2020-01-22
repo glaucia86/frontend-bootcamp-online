@@ -10,7 +10,7 @@ Neste curso, você aprenderá sobre:
 
 1 - [Criando minha primeira aplicação em Vue](instalacao.md)
 2 - [Estado da minha aplicação](setup.md)
-3 - O que são diretivas?
+3 - [O que são diretivas?](diretivas.md)
 4 - Meus primeiros métodos
 5 - Componentização
 6 - Passando dados para meu componente filho
