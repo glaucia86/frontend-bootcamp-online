@@ -1,7 +1,5 @@
 # Comandos mais utilizados
 
-## git status
-
 ## git add
 
 Após criar um arquivo, adicione o arquivo no rastreamento do Git. No Terminal, use o comando `git add` seguido do nome do arquivo ou somente `.` para adicionar todos os arquivos ainda não rastreados.
@@ -84,7 +82,7 @@ $ git branch nome_nova_branch
 ```
 #### Exemplo para remover uma branch
 ```
-$ git branch _D nome_da_branch
+$ git branch -D nome_da_branch
 ```
 
 ## git checkout
