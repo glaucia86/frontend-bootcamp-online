@@ -62,23 +62,20 @@ $ git log
 
 ## git status
 
-Esse comando é responsável por mostrar os arquivos rastreados pelo   histórico de commits da branch local atual. No Terminal, use o comando `git log`.
-
-#### Exemplo
-
-```css
-$ git log
-```
-
-
-
-
-## git status
-
-Esse comando é responsável por mostrar os arquivos rastreados pelo git que foram modificados. No Terminal, use o comando `git status`.
+Dentro do seu repositório local, execute o comando git status para monitorar os arquivos e pastas rastreados pelo git que sofreram modificações. No Terminal, use o comando `git status`.
 
 #### Exemplo
 
 ```css
 $ git status
+```
+
+## git branch
+
+Dentro do seu repositório local, execute o comando git branch para listar as branches do seu repositório local. No Terminal, use o comando `git branch`.
+
+#### Exemplo
+
+```css
+$ git branch
 ```
