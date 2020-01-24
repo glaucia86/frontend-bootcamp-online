@@ -68,3 +68,17 @@ Esse comando é responsável por mostrar os arquivos rastreados pelo   históric
 
 ```css
 $ git log
+```
+
+
+
+
+## git status
+
+Esse comando é responsável por mostrar os arquivos rastreados pelo git que foram modificados. No Terminal, use o comando `git status`.
+
+#### Exemplo
+
+```css
+$ git status
+```
