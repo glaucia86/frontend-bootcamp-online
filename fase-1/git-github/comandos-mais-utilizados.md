@@ -62,7 +62,7 @@ $ git log
 
 ## git status
 
-Dentro do seu repositório local, execute o comando git status para monitorar os arquivos e pastas rastreados pelo git que sofreram modificações. No Terminal, use o comando `git status`.
+Dentro do seu repositório local, execute o comando `git status` para monitorar os arquivos e pastas rastreados pelo git que sofreram modificações. No Terminal, use o comando `git status`.
 
 #### Exemplo
 
@@ -72,12 +72,19 @@ $ git status
 
 ## git branch
 
-Dentro do seu repositório local, execute o comando git branch para listar as branches do seu repositório local. No Terminal, use o comando `git branch`.
+Dentro do seu repositório local, execute o comando `git branch` para listar, criar ou remover as branches do seu repositório local. No Terminal, use o comando `git branch` para listar as branches, para criar use o comando `git branch` seguido pelo nome da nova branch, para remover use o comando `git branch -D` seguido pelo nome da branch a ser removida.
 
-#### Exemplo
-
+#### Exemplo para listar
 ```css
 $ git branch
+```
+#### Exemplo para criar nova branch
+```
+$ git branch nome_nova_branch
+```
+#### Exemplo para remover uma branch
+```
+$ git branch _D nome_da_branch
 ```
 
 ## git checkout
