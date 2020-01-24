@@ -48,3 +48,13 @@ Depois de confirmar as alterações, envie as alterações de sua máquina local
 ```css
 $ git push origin master
 ```
+
+
+## git log
+
+Esse comando é responsável por mostrar o histórico de commits da branch local atual. No Terminal, use o comando `git log`.
+
+#### Exemplo
+
+```css
+$ git log
