@@ -79,3 +79,13 @@ Dentro do seu repositório local, execute o comando git branch para listar as br
 ```css
 $ git branch
 ```
+
+## git checkout
+
+Dentro do seu repositório local, execute o comando git checkout seguido pelo nome da branch para alternar entre as branches do seu repositório local. No Terminal, use o comando `git checkout`.
+
+#### Exemplo
+
+```css
+$ git checkout developer
+```
