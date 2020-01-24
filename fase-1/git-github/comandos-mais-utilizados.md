@@ -58,7 +58,7 @@ Esse comando é responsável por mostrar o histórico de commits da branch local
 
 ```css
 $ git log
-
+```
 
 ## git status
 
