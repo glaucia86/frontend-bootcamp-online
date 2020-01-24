@@ -58,3 +58,13 @@ Esse comando é responsável por mostrar o histórico de commits da branch local
 
 ```css
 $ git log
+
+
+## git status
+
+Esse comando é responsável por mostrar os arquivos rastreados pelo   histórico de commits da branch local atual. No Terminal, use o comando `git log`.
+
+#### Exemplo
+
+```css
+$ git log
