@@ -1,7 +1,5 @@
 # Comandos mais utilizados
 
-## git status
-
 ## git add
 
 Após criar um arquivo, adicione o arquivo no rastreamento do Git. No Terminal, use o comando `git add` seguido do nome do arquivo ou somente `.` para adicionar todos os arquivos ainda não rastreados.
@@ -47,4 +45,52 @@ Depois de confirmar as alterações, envie as alterações de sua máquina local
 
 ```css
 $ git push origin master
+```
+
+
+## git log
+
+Esse comando é responsável por mostrar o histórico de commits da branch local atual. No Terminal, use o comando `git log`.
+
+#### Exemplo
+
+```css
+$ git log
+```
+
+## git status
+
+Dentro do seu repositório local, execute o comando `git status` para monitorar os arquivos e pastas rastreados pelo git que sofreram modificações. No Terminal, use o comando `git status`.
+
+#### Exemplo
+
+```css
+$ git status
+```
+
+## git branch
+
+Dentro do seu repositório local, execute o comando `git branch` para listar, criar ou remover as branches do seu repositório local. No Terminal, use o comando `git branch` para listar as branches, para criar use o comando `git branch` seguido pelo nome da nova branch, para remover use o comando `git branch -D` seguido pelo nome da branch a ser removida.
+
+#### Exemplo para listar
+```css
+$ git branch
+```
+#### Exemplo para criar nova branch
+```
+$ git branch nome_nova_branch
+```
+#### Exemplo para remover uma branch
+```
+$ git branch -D nome_da_branch
+```
+
+## git checkout
+
+Dentro do seu repositório local, execute o comando git checkout seguido pelo nome da branch para alternar entre as branches do seu repositório local. No Terminal, use o comando `git checkout`.
+
+#### Exemplo
+
+```css
+$ git checkout developer
 ```
