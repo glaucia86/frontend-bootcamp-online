@@ -8,13 +8,13 @@ Para validações de condições, temos ```v-if, v-else e v-else-if```
 
 ```
 <div v-if="condicao > 0">
-  O valor de condicao é maior que 0
+  O valor de <b>condicao</b> é maior que 0
 </div>
 <div v-else-if="condicao < 0">
-  O valor de condicao é menor que 0
+  O valor de <b>condicao</b> é menor que 0
 </div>
 <div v-else>
-  O valor de condicao não é verdadeiro para nenhuma condição acima
+  O valor de <b>condicao</b> não é verdadeiro para nenhuma condição
 </div>
 ```
 Se definirmos uma propriedade chamada ```condicao``` no nosso data, com o código acima irá fazer a validação se é maior que 0, menor que 0 e se não é nenhuma dessas condições.
@@ -65,13 +65,13 @@ Essas são apenas algumas das diretivas do Vue, na [documentação](https://vuej
     </div>
     <p>Minha mensagem é: {{ mensagem }}</p>
     <div v-if="condicao > 0">
-      O valor de condicao é maior que 0
+      O valor de <b>condicao</b> é maior que 0
     </div>
     <div v-else-if="condicao < 0">
-      O valor de condicao é menor que 0
+      O valor de <b>condicao</b> é menor que 0
     </div>
     <div v-else>
-      O valor de condicao não é verdadeiro para nenhuma condição acima
+      O valor de <b>condicao</b> não é verdadeiro para nenhuma condição
     </div>
 
     <div 
