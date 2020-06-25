@@ -7,7 +7,7 @@ Para [instalar o Vue CLI](https://cli.vuejs.org/guide/installation.html), execut
 
 ## Criando nosso projeto
 
-Depois de instalado o Vue CLI, a criação de projetos é bem simples, navegue até a pasta desejada utilizando o terminal e digite "vue create" e o nome desejado do seu projeto, exemplo ```vue create meuProjeto```, irá ser criado uma pasta chamada meuProjeto e irá ser feito a instalação dentro desse diretório.
+Depois de instalado o Vue CLI, a criação de projetos é bem simples, navegue até a pasta desejada utilizando o terminal e digite "vue create" e o nome desejado do seu projeto, exemplo ```vue create meu-projeto```, irá ser criado uma pasta chamada meu-projeto e irá ser feito a instalação dentro desse diretório.
 
 ![Tela de instalação](https://cli.vuejs.org/cli-new-project.png)
 
